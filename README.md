@@ -1,3 +1,5 @@
+Why are you here? This is junk
+
 # Shutterbug
 
 Shutterbug is an open-source scientific analysis tool focused on accessible photometry workflows.
